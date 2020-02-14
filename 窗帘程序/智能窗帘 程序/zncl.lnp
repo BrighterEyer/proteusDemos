@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"zncl.obj" 
+TO "zncl" 
+RAMSIZE(256) 
